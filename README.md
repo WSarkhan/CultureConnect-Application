@@ -1,5 +1,3 @@
-# CultureConnect
-
 ![CultureConnect in stylised font as the app logo](https://github.com/JoravarSinghPunia/CultureConnect-Application/blob/main/assets/images/CultureConnectLogo.png)
 
 <p align="center">
