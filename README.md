@@ -1,7 +1,7 @@
 ![CultureConnect in stylised font as the app logo](https://github.com/JoravarSinghPunia/CultureConnect-Application/blob/main/assets/images/CultureConnectLogo.png)
 
 <p align="center">
-  <a href="https://youtu.be/syxOqc9XhZ4">
+  <a href="https://youtu.be/Feo5sotBmDw">
     <img src="https://img.youtube.com/vi/syxOqc9XhZ4/0.jpg" alt="Application Presentation">
   </a>
 </p>
@@ -42,7 +42,7 @@ Features:
 
   In the terminal on your device, cd into the directory where you wish to keep this repository, then,
   
-  ```git clone https://github.com/JoravarSinghPunia/CultureConnect-Application.git```
+  ```git clone https://github.com/WSarkhan/CultureConnect-Application.git```
   
   Or, if you have already forked this repo, copy the HTTPS link from the green 'Code' dropdown and replace the URL.
 
