@@ -9,6 +9,7 @@ export const fetchEvents = async () => {
   return { data, error };
 };
 
+
 export const fetchUserid = async () => {
   const {
     data: {
